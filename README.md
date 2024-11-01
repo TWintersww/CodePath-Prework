@@ -34,6 +34,8 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 - Allows users to trade financial stocks inside an app
 - Easy to use interface for viewing stock information
 
+An app I would like to build is a wordle solver that the user can use while playing the wordle puzzle. Users would submit their guesses and mark the color outcomes for each guess. The app would then narrow down the possible words that could be the answer and provide the user with the optimal future guesses.
+
 ## Notes
 
 Describe any challenges encountered while building the app.
