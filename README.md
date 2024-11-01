@@ -22,12 +22,17 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 ## App Brainstorming (Step 4)
 
 1. Apple Music
-- Organization. Users can group songs into different playlists.
-- Running in the background. Music plays even if you aren't in the app.
+- Organization. Users can group songs into different playlists
+- Running in the background. Music plays even if you aren't in the app
 2. Google Maps
 - Location detecting/GPS features
 - Algorithmically computes shortest paths and travel times
-3. 
+3. Tiktok
+- Powerful recommendation algorithm that seems to know what you want to see
+- Hosts millions of videos and delivers them quickly to the user
+4. Robinhood
+- Allows users to trade financial stocks inside an app
+- Easy to use interface for viewing stock information
 
 ## Notes
 
