@@ -21,6 +21,14 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 
 ## App Brainstorming (Step 4)
 
+1. Apple Music
+- Organization. Users can group songs into different playlists.
+- Running in the background. Music plays even if you aren't in the app.
+2. Google Maps
+- Location detecting/GPS features
+- Algorithmically computes shortest paths and travel times
+3. 
+
 ## Notes
 
 Describe any challenges encountered while building the app.
@@ -29,7 +37,7 @@ Getting used to XCode's many features and panels from device view to storyboard 
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2024] [Evan Wu]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
